@@ -97,16 +97,21 @@ You can use any book to write in, but if you want one to set goals or have some 
 ### SRS (Anki Decks)
 These are Anki decks I have found or used that really helped me increase my vocabulary and also include audio or pictures. 
 
-Our Recommended starter deck we put together with the top 1000 Spanish words by frequency. All the sentences taught are focused on traveling, and day to day conversation, so not only do you learn the word, but you learn useful phrases for your trips early on!
-1. [Top_1000_Spanish_Words_By_LearnToLingo](./Top_1000_Spanish_Words_By_LearnToLingo.apkg)
-Another great deck to use and learn with is Pimsleur's deck. They are really good at teaching the basics of language. I need, you need, it is on the left, you go left, etc. for traveling. 
-2. [Pimsleur Spanish](./Pimsleur%20Spanish.apkg)
-Another Great one we created is 300 Useful Spanish Phrases using the YouTube Channel "Español con Olga y Miguel" 300 phrase starter pack! The audio is from Miquel, so thank you Miquel!
-3. [300_Spanish_Phrases](./300_Spanish_Phrases.apkg)
-Here are the top 500 Spanish Word Forms
-4. [Top 5000 Words](./Top5000_Spanish_Word_Forms.apkg)
-Here is another popular CORE top 1000 Word deck that we did not create
-5. [Spanish core 1k  vocab deck](./Spanish%20core%201k%20%20vocab%20deck.apkg)
+Our recommended starter deck that we put together contains the top 1000 Spanish words by frequency. All the sentences taught are focused on traveling and day-to-day conversation, so not only do you learn the words, but you also learn useful phrases for your trips early on!  
+1. [Top_1000_Spanish_Words_By_LearnToLingo](https://github.com/AbramPeterson/LearnSpanishWithLearnToLingo/releases/download/AnkiDecks/Top_1000_Spanish_Words_By_LearnToLingo.apkg)  
+
+Another great deck to use and learn with is Pimsleur's deck. They are really good at teaching the basics of a language. "I need," "you need," "it is on the left," "you go left," etc., which are useful for traveling.  
+2. [Pimsleur Spanish](https://github.com/AbramPeterson/LearnSpanishWithLearnToLingo/releases/download/AnkiDecks/Pimsleur%20Spanish.apkg)  
+
+Another great one we created is 300 Useful Spanish Phrases using the YouTube channel "Español con Olga y Miguel" 300-phrase starter pack! The audio is from Miguel, so thank you, Miguel!  
+3. [300_Spanish_Phrases](https://github.com/AbramPeterson/LearnSpanishWithLearnToLingo/releases/download/AnkiDecks/300_Spanish_Phrases.apkg)  
+
+Here are the top 5000 Spanish word forms.  
+4. [Top 5000 Words](https://github.com/AbramPeterson/LearnSpanishWithLearnToLingo/releases/download/AnkiDecks/Top5000_Spanish_Word_Forms.apkg)  
+
+Here is another popular CORE top 1000-word deck that we did not create.  
+5. [Spanish core 1k vocab deck](https://github.com/AbramPeterson/LearnSpanishWithLearnToLingo/releases/download/AnkiDecks/Spanish%20core%201k%20%20vocab%20deck.apkg)
+
 
 ### Listening/Watching
 There are two ways to do audio and immersion. If you are brand new, just sign up for DreamingSpanish and grind the hours. If you have a little more understanding of the language and can filter YouTube videos to find content you want to watch, do that. Either way, get volume through comprehensible input where you can understand about 70% of the video! I will say, if you want to turn on English or Spanish (or whatever language you are learning) subtitles, do not be afraid to do so. Just focus on correlating the English subtitle to the word you heard. Be careful about getting caught up in just reading subtitles and not learning the language. 
