@@ -100,7 +100,7 @@ These are Anki decks I have found or used that really helped me increase my voca
 Our recommended starter deck that we put together contains the top 1000 Spanish words by frequency. All the sentences taught are focused on traveling and day-to-day conversation, so not only do you learn the words, but you also learn useful phrases for your trips early on!  
 1. [Top_1000_Spanish_Words_By_LearnToLingo](https://github.com/AbramPeterson/LearnSpanishWithLearnToLingo/releases/download/AnkiDecks/Top_1000_Spanish_Words_By_LearnToLingo.apkg) 
 
-Top 50 most used Spanish verbs in Past, Present, and Future!
+Top 50 most used Spanish verbs in Past, Present, and Future!  
 2. [Top_50_Verbs_LearnToLingo](https://github.com/AbramPeterson/LearnSpanishWithLearnToLingo/releases/download/AnkiDecks_V0.2/Top_50_Spanish_Verbs_LearnToLingo.apkg)
 
 Another great deck to use and learn with is Pimsleur's deck. They are really good at teaching the basics of a language. "I need," "you need," "it is on the left," "you go left," etc., which are useful for traveling.  
