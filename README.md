@@ -98,19 +98,22 @@ You can use any book to write in, but if you want one to set goals or have some 
 These are Anki decks I have found or used that really helped me increase my vocabulary and also include audio or pictures. 
 
 Our recommended starter deck that we put together contains the top 1000 Spanish words by frequency. All the sentences taught are focused on traveling and day-to-day conversation, so not only do you learn the words, but you also learn useful phrases for your trips early on!  
-1. [Top_1000_Spanish_Words_By_LearnToLingo](https://github.com/AbramPeterson/LearnSpanishWithLearnToLingo/releases/download/AnkiDecks/Top_1000_Spanish_Words_By_LearnToLingo.apkg)  
+1. [Top_1000_Spanish_Words_By_LearnToLingo](https://github.com/AbramPeterson/LearnSpanishWithLearnToLingo/releases/download/AnkiDecks/Top_1000_Spanish_Words_By_LearnToLingo.apkg) 
+
+Top 50 most used Spanish verbs in Past, Present, and Future!
+2. [Top_50_Verbs_LearnToLingo](https://github.com/AbramPeterson/LearnSpanishWithLearnToLingo/releases/download/AnkiDecks_V0.2/Top_50_Spanish_Verbs_LearnToLingo.apkg)
 
 Another great deck to use and learn with is Pimsleur's deck. They are really good at teaching the basics of a language. "I need," "you need," "it is on the left," "you go left," etc., which are useful for traveling.  
-2. [Pimsleur Spanish](https://github.com/AbramPeterson/LearnSpanishWithLearnToLingo/releases/download/AnkiDecks/Pimsleur%20Spanish.apkg)  
+3. [Pimsleur Spanish](https://github.com/AbramPeterson/LearnSpanishWithLearnToLingo/releases/download/AnkiDecks/Pimsleur%20Spanish.apkg)  
 
 Another great one we created is 300 Useful Spanish Phrases using the YouTube channel "Español con Olga y Miguel" 300-phrase starter pack! The audio is from Miguel, so thank you, Miguel!  
-3. [300_Spanish_Phrases](https://github.com/AbramPeterson/LearnSpanishWithLearnToLingo/releases/download/AnkiDecks/300_Spanish_Phrases.apkg)  
+4. [300_Spanish_Phrases](https://github.com/AbramPeterson/LearnSpanishWithLearnToLingo/releases/download/AnkiDecks/300_Spanish_Phrases.apkg)  
 
 Here are the top 5000 Spanish word forms.  
-4. [Top 5000 Words](https://github.com/AbramPeterson/LearnSpanishWithLearnToLingo/releases/download/AnkiDecks/Top5000_Spanish_Word_Forms.apkg)  
+5. [Top 5000 Words](https://github.com/AbramPeterson/LearnSpanishWithLearnToLingo/releases/download/AnkiDecks/Top5000_Spanish_Word_Forms.apkg)  
 
 Here is another popular CORE top 1000-word deck that we did not create.  
-5. [Spanish core 1k vocab deck](https://github.com/AbramPeterson/LearnSpanishWithLearnToLingo/releases/download/AnkiDecks/Spanish%20core%201k%20%20vocab%20deck.apkg)
+6. [Spanish core 1k vocab deck](https://github.com/AbramPeterson/LearnSpanishWithLearnToLingo/releases/download/AnkiDecks/Spanish%20core%201k%20%20vocab%20deck.apkg)
 
 
 ### Listening/Watching
